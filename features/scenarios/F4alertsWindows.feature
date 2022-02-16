@@ -5,7 +5,7 @@ Feature: Checking the "Browser Windows" and the "Modal Dialogs" submodules of th
         When I click on the "Alerts, Frame & Windows" item
         Then I should see the "Alerts, Frame & Windows" item page
         
-    Scenario: 02. As a user, I can choose the Text Box submodule
+    Scenario: 02. As a user, I can choose the "Browser Windows" submodule
         When I click on the "Browser Windows" submodule item
         Then I should see the "Browser Windows" item page
 
